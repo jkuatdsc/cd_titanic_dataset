@@ -45,4 +45,4 @@ git push origin -u {your_username}
 5. Make a pull request
 
 ## Support
-In case you have any questions, reach out to the team in [slack](dscjkuat.slack.com) or in [whatsapp](https://chat.whatsapp.com/HqvLFqO4z9oILSZhEPL0VP)
+In case you have any questions, reach out to the team in [slack](https://dscjkuat.slack.com/) or in [whatsapp](https://chat.whatsapp.com/HqvLFqO4z9oILSZhEPL0VP)
